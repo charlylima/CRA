@@ -6,12 +6,16 @@ subtitle: SBOM, CVE Scanning, and Qt UI Development on Embedded Linux
 ---
 <!-- backgroundImage: "linear-gradient(135deg, #e0e7ff 0%, #b7caff 100%)" -->
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg" width="200" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg" width="200" style="margin-top: 40px; margin-bottom: 20px;" />
 
-# European Union CRA Regulations
-## CRA, SBOM, CVE Scanning, and UI Development on Embedded Linux
+# <span style="color:#2a3fa4;">European Union CRA Regulations</span>
+## <span style="color:#3b4cca;">CRA, SBOM, CVE Scanning, and UI Development on Embedded Linux</span>
+
+**Author:** Captain Charly Lima  
+[https://github.com/charlylima](https://github.com/charlylima)
 
 ---
+
 <!-- backgroundImage: "white" -->
 <!-- paginate: true -->
 
