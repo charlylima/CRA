@@ -1,0 +1,27 @@
+<svg width="800" height="180" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .label { font: bold 16px sans-serif; fill: #222; font-weight: bold; }
+    .date { font: bold 14px sans-serif; fill: #2a3fa4; font-weight: bold; }
+    .desc { font: bold 13px sans-serif; fill: #444; font-weight: bold; }
+    .milestone { fill: #2a3fa4; }
+    .line { stroke: #2a3fa4; stroke-width: 4; }
+    .circle { fill: #fff; stroke: #2a3fa4; stroke-width: 4; }
+  </style>
+  <!-- Timeline line -->
+  <line x1="80" y1="90" x2="720" y2="90" class="line" />
+
+  <!-- Milestones -->
+  <circle cx="120" cy="90" r="18" class="circle" />
+  <circle cx="400" cy="90" r="18" class="circle" />
+  <circle cx="680" cy="90" r="18" class="circle" />
+
+  <!-- Milestone labels -->
+  <text x="120" y="60" text-anchor="middle" class="date">Jan 2024</text>
+  <text x="400" y="60" text-anchor="middle" class="date">Oct 2025</text>
+  <text x="680" y="60" text-anchor="middle" class="date">Jan 2027</text>
+
+  <!-- Milestone descriptions -->
+  <text x="120" y="130" text-anchor="middle" class="desc">CRA Adopted</text>
+  <text x="400" y="130" text-anchor="middle" class="desc">Partial Enforcement</text>
+  <text x="680" y="130" text-anchor="middle" class="desc">Full Enforcement</text>
+</svg>
