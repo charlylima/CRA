@@ -43,7 +43,6 @@ After 21 months (October 2025), manufacturers and suppliers must:
 - Provide a contact point for vulnerability reporting.
 - Address and communicate vulnerabilities in a timely manner.
 
-These requirements establish a robust vulnerability management process before the full CRA obligations take effect in January 2027.
 
 ---
 
@@ -272,12 +271,17 @@ Use the web dashboard to monitor the status of your projects.
 
 ---
 
-# What does it mean for my Smartphone?
+# What does CRA mean for my Smartphone?
 
-- Under the CRA, manufacturers must provide security updates for the expected lifetime of the device, or **at least 5 years** after it is placed on the EU market—whichever is shorter.
-- This means your smartphone should receive security updates for at least 5 years
-- Updates must be delivered without undue delay when vulnerabilities are discovered.
-- You will be informed about available security updates and mitigations in a timely manner.
+- Under the CRA, manufacturers must provide security updates for the expected lifetime of the device, or **at least 5 years** after it is placed on the EU market.
+- Does not mean you would get major operating system updates or new features
+
+---
+
+# Questions: Do we need SBOM for non-connected devices?
+
+-> Purely analog devices or those with absolutely no data connection capability are not covered.
+see [EU Regulation 2024/2847, Article 2 "Scope"](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_2)
 
 ---
 
