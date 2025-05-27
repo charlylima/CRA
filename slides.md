@@ -23,6 +23,12 @@ subtitle: SBOM, CVE Scanning, and Qt UI Development on Embedded Linux
 
 The EU Cyber Resilience Act (CRA) introduces cybersecurity requirements for products with digital elements sold in the EU. 
 
+Documents:
+* [REGULATION (EU) 2024/2847 OF THE EUROPEAN PARLIAMENT 
+  on horizontal cybersecurity requirements for products with digital elements](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32014L0053)
+* [European Commission's official page on the CRA](https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act)
+* [BSI Technische-Richtlinien TR-03183](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/Technische-Richtlinien/TR-nach-Thema-sortiert/tr03183/TR-03183_node.html)
+
 ---
 
 # The CRA Timeline
