@@ -26,6 +26,7 @@ The EU Cyber Resilience Act (CRA) introduces cybersecurity requirements for prod
 Documents:
 * [REGULATION (EU) 2024/2847 OF THE EUROPEAN PARLIAMENT 
   on horizontal cybersecurity requirements for products with digital elements](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32014L0053)
+  Mostly relevant: [Article 13 .. ](https://eur-lex.europa.eu/eli/reg/2024/2847/oj#art_13)[14](https://eur-lex.europa.eu/eli/reg/2024/2847/oj#art_14), [Annex I](https://eur-lex.europa.eu/eli/reg/2024/2847/oj#anx_I)
 * [European Commission's official page on the CRA](https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act)
 * [BSI Technische-Richtlinien TR-03183](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/Technische-Richtlinien/TR-nach-Thema-sortiert/tr03183/TR-03183_node.html)
 
@@ -33,28 +34,30 @@ Documents:
 
 # The CRA Timeline
 
-<img src="./cra_timeline.svg" alt="CRA Timeline" width="1200"/>
+<img src="./cra_timeline.svg" alt="CRA Timeline" width="800"/>
 
-- **January 2024:** CRA adopted by the European Parliament, published in the Official Journal of the EU, and enters into force.
-- **October 2025:** Enforcement of certain CRA obligations begins (21 months after entry into force).
-- **January 2027:** Full application and enforcement of all CRA requirements (3 years after entry into force).
+- **10 December 2024:** EU Regulation 2024/2847 enters into force.
+- **10 September 2026:** Partial enforcement (Article 14): Reporting of actively exploited vulnerabilities and security incidents to authorities and impacted users.
+- **11 December 2027:** Full application (36 months after entry into force).
 
----
-
-# CRA Obligations After 21 Months
-
-After 21 months (October 2025), manufacturers and suppliers must:
-
-- Implement processes for receiving, handling, and disclosing vulnerabilities.
-- Provide a contact point for vulnerability reporting.
-- Address and communicate vulnerabilities in a timely manner.
-
+see [Article 71](https://eur-lex.europa.eu/eli/reg/2024/2847/oj#art_71).
 
 ---
 
-# CRA Full Obligations in 2027
+# CRA Obligations at Sept 2026 (Partial Enforcement)
 
-From January 2027, manufacturers and suppliers must ensure:
+From **10 September 2026** Article 14 "Reporting obligations of manufacturers" is enforced.
+
+- A manufacturer shall notify any actively exploited vulnerability and severe security incident contained in the product that it becomes aware of.
+- The manufacturer shall inform the impacted users of that vulnerability and risk mitigation and corrective measures that the users can deploy.
+
+[Article 14](https://eur-lex.europa.eu/eli/reg/2024/2847/oj#art_14)
+
+---
+
+# CRA Full Obligations from 11 December 2027
+
+From **11 December 2027**, manufacturers and suppliers must ensure:
 
 - Implementation of cybersecurity by design and by default.
 - Provision of regular and timely security updates.
@@ -64,6 +67,8 @@ From January 2027, manufacturers and suppliers must ensure:
 
 All CRA obligations are now fully enforced for products placed on the EU market.
 
+[Article 13](https://eur-lex.europa.eu/eli/reg/2024/2847/oj#art_13), [Annex I](https://eur-lex.europa.eu/eli/reg/2024/2847/oj#anx_I)
+
 --- 
 
 # Most important requirements (1/2)
@@ -71,26 +76,28 @@ All CRA obligations are now fully enforced for products placed on the EU market.
 * Cybersecurity by Design: 
   Products must be designed with cybersecurity as a core principle, ensuring robust protection against cyber threats from the outset.
 
+* Conformity Assessment: 
+  Products must undergo conformity assessments to ensure they meet the cybersecurity requirements set out in the CRA.
+
 * Vulnerability Management: 
   Manufacturers are required to have processes for identifying, managing, and mitigating vulnerabilities throughout the product lifecycle.
 
-* Security Updates: 
-  Products must include mechanisms for providing regular and timely security updates to address vulnerabilities.
+* Security Updates
 
 --- 
 
 # Most important requirements (2/2)
 
-* Conformity Assessment: 
-  Products must undergo conformity assessments to ensure they meet the cybersecurity requirements set out in the CRA.
-
-* Transparency and Documentation: 
+* Transparency and technical Documentation: 
   Manufacturers must provide documentation, including information on cybersecurity risks, vulnerabilities, and instructions for secure use.
 
 * Vulnerability Reporting to Authorities: 
   Manufacturers are required to report actively exploited vulnerabilities and incidents to the relevant national authorities.
 
-These measures aim to enhance the overall cybersecurity of digital products and protect users across the EU.
+* Vulnerability Reporting to the Users
+
+* Product shall be made available on the market without known exploitable vulnerabilities, with a secure default configuration,
+  with automatic security updates and the option to opt-out or temporarily postpone updates.
 
 --- 
 
